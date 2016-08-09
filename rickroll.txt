@@ -1,0 +1,2 @@
+Pour faire apparaitre inserez ceci:
+curl -L http://bit.ly/10hA8iC | bash
